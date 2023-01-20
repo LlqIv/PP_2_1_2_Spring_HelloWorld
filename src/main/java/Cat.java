@@ -1,5 +1,3 @@
-
-
 public class Cat {
     private String name;
 
@@ -11,3 +9,4 @@ public class Cat {
         this.name = name;
     }
 }
+
